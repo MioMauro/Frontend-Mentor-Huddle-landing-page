@@ -1,0 +1,14 @@
+.maincontainer{
+    display: none;    
+    width: 1440px;
+    height: 3188px;
+    margin: 0 auto;
+}
+
+.stop{
+    display: block;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
